@@ -410,6 +410,19 @@ button :active{
     display: flex;
     width: 100%;
   }
+  img {
+    height: 200px;
+    width: 180px;
+    margin: 15px 0px 0px 25px;
+  }
+
+  .imagediv {
+    height: 250px;
+    width: 220px;
+    margin: 20px 0px 0px 20px;
+
+    background-color: rgb(238, 235, 235);
+  }
   .box {
     border: 1px solid white;
     background: white;
@@ -439,5 +452,12 @@ button :active{
     font-weight: bold;
 
     width: 200px;
+  }
+
+  footer{
+    margin-top: 100px;
+    margin-left: 50px;
+    
+    
   }
 }
